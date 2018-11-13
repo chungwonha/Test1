@@ -24,7 +24,7 @@ public class JavaApplication1 {
         
         //this is in ticket 456
         
-        
+        // this is another change in release2 branch after later
         //this is added in release-2 branch later
 
         //this is my change in ticket 567
